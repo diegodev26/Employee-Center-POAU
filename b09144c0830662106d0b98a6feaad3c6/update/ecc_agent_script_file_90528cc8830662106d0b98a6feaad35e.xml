@@ -6,7 +6,7 @@
         <directory>false</directory>
         <name>Example</name>
         <parent/>
-        <script>Example</script>
+        <script>This is my script</script>
         <script_attachment/>
         <source/>
         <sys_class_name>ecc_agent_script_file</sys_class_name>
